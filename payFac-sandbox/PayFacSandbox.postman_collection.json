@@ -177,11 +177,11 @@
 					},
 					{
 						"key": "Content-Type",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					},
 					{
 						"key": "Accept",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					}
 				],
 				"body": {
@@ -217,11 +217,11 @@
 					},
 					{
 						"key": "Content-Type",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					},
 					{
 						"key": "Accept",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					}
 				],
 				"body": {
@@ -258,11 +258,11 @@
 					},
 					{
 						"key": "Content-Type",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					},
 					{
 						"key": "Accept",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					}
 				],
 				"body": {
@@ -300,11 +300,11 @@
 					},
 					{
 						"key": "Content-Type",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					},
 					{
 						"key": "Accept",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					}
 				],
 				"body": {
@@ -341,11 +341,11 @@
 					},
 					{
 						"key": "Content-Type",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					},
 					{
 						"key": "Accept",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					}
 				],
 				"body": {
@@ -383,11 +383,11 @@
 					},
 					{
 						"key": "Content-Type",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					},
 					{
 						"key": "Accept",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					}
 				],
 				"body": {
@@ -425,11 +425,11 @@
 					},
 					{
 						"key": "Content-Type",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					},
 					{
 						"key": "Accept",
-						"value": "application/com.vantivcnp.payfac-v13+xml"
+						"value": "application/com.vantivcnp.payfac-v14+xml"
 					}
 				],
 				"body": {
