@@ -28,6 +28,12 @@ SDK versioning is done in format XX.YY.ZZ
 
 ### PayFac MP SDKs:
 
-| Version | Java | .NET | Python | PHP |
+| Version | Java | .NET 
+| ------ | ---- | ---- 
+| 13 | [13.0.0](https://github.com/Vantiv/payfac-mp-sdk-java/releases/tag/13.0.0) | [13.0.0](https://github.com/Vantiv/payfac-mp-sdk-dotnet/releases/tag/13.0.0)
+
+
+<!-- Removing python and php from Payfac MP SDKs -->
+<!--| Version | Java | .NET | Python | PHP |
 | ------ | ---- | ---- | ---- | --- |
-| 13 | [13.0.0](https://github.com/Vantiv/payfac-mp-sdk-java/releases/tag/13.0.0) | [13.0.0](https://github.com/Vantiv/payfac-mp-sdk-dotnet/releases/tag/13.0.0) | [13.0.0](https://github.com/Vantiv/payfac-mp-sdk-python/releases/tag/13.0.0) |[13.0.0](https://github.com/Vantiv/payfac-mp-sdk-php/releases/tag/13.0.0) |
+| 13 | [13.0.0](https://github.com/Vantiv/payfac-mp-sdk-java/releases/tag/13.0.0) | [13.0.0](https://github.com/Vantiv/payfac-mp-sdk-dotnet/releases/tag/13.0.0) | [13.0.0](https://github.com/Vantiv/payfac-mp-sdk-python/releases/tag/13.0.0) |[13.0.0](https://github.com/Vantiv/payfac-mp-sdk-php/releases/tag/13.0.0) |-->
