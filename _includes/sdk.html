@@ -37,12 +37,15 @@
 					<li class="{% if page.title == 'DotNet' %}active{% endif %}">
 						<a href="../{% if page.type == 'cbk' %}cbk-{% endif %}{% if page.type == 'payfac' %}payfac-{% endif %}dotnet" class="btn-default"  id="cnp-sdk-dotnet">.NET</a>
 					</li>
+
+					{% if page.type != 'payfac' %}
 					<li class="{% if page.title == 'PHP' %}active{% endif %}">
 						<a href="../{% if page.type == 'cbk' %}cbk-{% endif %}{% if page.type == 'payfac' %}payfac-{% endif %}php" class="btn-default" id="cnp-sdk-php">PHP</a>
 					</li>
 					<li class="{% if page.title == 'Python' %}active{% endif %}">
 						<a href="../{% if page.type == 'cbk' %}cbk-{% endif %}{% if page.type == 'payfac' %}payfac-{% endif %}python" class="btn-default" id="cnp-sdk-python">Python</a>
 					</li>
+					{% endif %}
 				</ol>
 			</div>
 			{% endif %}
